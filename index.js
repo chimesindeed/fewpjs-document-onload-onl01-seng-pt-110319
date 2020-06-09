@@ -7,6 +7,6 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 function changeText(){
- text = document.getElementsById('text')
+ text = document.getElementById('text')
  text.innerHTML='This is really cool'
 }
