@@ -8,5 +8,5 @@ document.addEventListener("DOMContentLoaded", function() {
 
 function changeText(){
  text = document.getElementById('text')
- text.innerHTML='This is really cool'
+ text.innerHTML='This is really cool!'
 }
